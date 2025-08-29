@@ -8,7 +8,7 @@ I started learning web development with HTML and CSS, but currently I'm focused 
 
 * 🌍  I'm based in Coahuila, Mexico.
 * ✉️  You can contact me at [luiisflores34@gmail.com](mailto:luiisflores34@gmail.com)
-* 🧠  Adding new skills: learning DevOps to take my projects to the next level
+* 🧠  Adding new skills
 * 🤝  I'm open to collaborating on small, and interesting projects
 
 ### Skills
