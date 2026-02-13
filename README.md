@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Jr Developer :)
 -----------------
 
-I started learning web development with HTML and CSS, but currently I'm focused on C#💻
+I began my journey in web development by building single-page applications, and I’m now focused on learning ASP.NET.💻
 
 * 🌍  I'm based in Coahuila, Mexico.
 * ✉️  You can contact me at [luiisflores34@gmail.com](mailto:luiisflores34@gmail.com)
-* 🧠  Adding new skills
-* 🤝  I'm open to collaborating on small, and interesting projects
+* 🧠  Focusing on Clean Architecture, Clean Code principles, and design patterns
+* 🤝  I'm open to collaborating on small projects and learning along the way
 
 ### Skills
 
